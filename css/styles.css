@@ -1,0 +1,41 @@
+body {
+    background-color: #1777bd;
+    padding-top: 10%;
+}
+
+.login-container {
+    box-shadow: 1px 1px 1px 1px darkgrey;
+    background-color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    z-index: 1;
+}
+
+.login-container > div.text {
+    display: block;
+    padding: 25px;
+    text-align: center;
+}
+
+.login-button {
+    background-color: #1777bd;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.login-container .form input {
+    height: 25px;
+}
+
+a:link {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
+
