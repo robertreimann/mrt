@@ -93,6 +93,7 @@ nav div.search-container>button {
     display: block;
     background-color: white;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .post-container {
